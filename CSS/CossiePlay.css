@@ -1,0 +1,127 @@
+@charset "utf-8";
+
+#container {
+	margin: auto;
+	width: 1000px;
+}
+
+#banner {
+	width: 1000px;
+	float: center;
+	text-align: center;
+	vertical-align:central;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	color: #FFF;
+}
+#nav_bar {
+	background-color: #FFF;
+	width: 1000px;
+	height: 50px;
+	float: left;
+	font-size: large;
+	margin-bottom:5px;
+}
+.nav_text {
+	font-family: "Jenna Sue";
+	font-size: 36px;
+	text-align: center;
+	font-weight: 900;
+	color: #036;
+}
+.nav_text a:hover {
+	font-family: "Jenna Sue";
+	color: #5BA9D9;
+	font-size: 36px;
+	font-weight: 900;
+	text-align: center;
+}
+#maincontent {
+	width: 1000px;
+	float: left;
+	text-align: left;
+	background:rgba(255,255,255,0.8);
+	margin-bottom:10px;
+}
+
+#footer {
+	background-color: #C4D0F5;
+	width: 100%;
+	float: left;
+	font-size: 16px;
+	text-align: center;
+	margin:auto;
+	/*position:fixed;*/
+}
+
+.Heading {
+	font-family: "Jenna Sue";
+	font-size: 36px;
+	color: #7B86E2;
+	font-weight: 900;
+	padding-left:30px;
+}
+.context {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 18px;
+	color: #000000;
+	padding-left:30px;
+	padding-right:30px;
+}
+.context a:link{
+	font-family:"Courier New", Courier, monospace;
+	font-size:18px;
+	color:#000;
+}
+.context a:visited{
+	font-family:"Courier New", Courier, monospace;
+	font-size:18px;
+	color:#000;
+}
+.context a:hover{
+	font-family:"Courier New", Courier, monospace;
+	color:#5BA9D9;
+	font-size:18px;
+}
+#bgpic {
+	height: auto;
+	width: 100%;
+	position: fixed;
+	z-index: -100;
+	left: 0px;
+	top: 0px;
+	min-height: 100%;
+	min-width: 1040px;
+}
+@font-face{ 
+	font-family:"Jenna Sue"; 
+	src:url(../JennaSue.ttf);
+}
+@font-face{
+	font-family:"Kool Beans";
+	src:url(../KoolBean.ttf);
+}
+.TableText {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #06C;
+	text-align: center;	
+}
+#container #maincontent p #picture {
+	left: auto;
+}
+.picture {
+	float: left;
+	padding-top: 40px;
+	padding-right: 15px;
+	padding-bottom: 30px;
+}
+#pic{
+	text-align: center;
+}
+
+#shopping {
+	padding-left: 30px;
+}

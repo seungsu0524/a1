@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CossiePlay</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../CSS/CossiePlay.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<img src="../images/spiderman-in-nature-2-1258899-640x480.jpg" name="bgpic" width="640" height="480" alt="" id="bgpic"/>
+<div id="container">
+  <div id="banner">
+
+  <img src="../images/Bannerimage.jpg" width="1000" height="250" alt=""/> </div>
+  <div id="nav_bar">
+<table width="100%" height="50" border="0">
+<tr>
+   <td class = "nav_text"><a href="../index.html" style="text-decoration:none;" class="nav_text">Home</a></td>
+   <td class = "nav_text"><a href="../Aboutus.html" style="text-decoration:none;" class="nav_text">About us</a></td>
+   <td class = "nav_text"><a href="../Shopping.html" style="text-decoration:none;" class="nav_text">Shopping</a></td>
+   <td class = "nav_text"><a href="../Guidelines.html" style="text-decoration:none;" class="nav_text">Guidelines</a></td>
+   <td class = "nav_text"><a href="../Joinus.html" style="text-decoration:none;" class="nav_text">Join us</a></td>
+   <td class = "nav_text"><a href="../Contact.html" style="text-decoration:none;" class="nav_text">Contact</a></td>
+   <td class = "nav_text"><a href="../Links.html" style="text-decoration:none;" class="nav_text">Links</a></td>
+   </tr>
+   </table>
+   <p>&nbsp;</p>
+   </div>
+ <div id="maincontent"><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable -->
+ 
+ </div>
+ 
+<div id="footer"> Copyright &copy; 2016 CossiePlay All Rights Reserved   </div>
+</div>
+</body>
+</html>
